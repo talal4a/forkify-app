@@ -1,0 +1,4 @@
+.parcel-cache
+.netlify
+node_modules
+dist
